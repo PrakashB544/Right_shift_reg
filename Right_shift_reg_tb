@@ -21,6 +21,7 @@ module r_s_r_tb();
      
       #5; rst=0; i=4'b1010; ld=1;
       #5; ld=0; sin=1;
+      #5;
       #5; rst=0; i=4'b1110; ld=1;
       #5; ld=0; sin=1;
      
